@@ -6,7 +6,7 @@
       "cuisine": "Thai",
       "meal_type": "Main Course",
       "short_desc": "A Thai basil stir-fry made with ground pork, chicken, or beef, garlic, Thai bird’s eye chilies, savory sauces, holy basil, jasmine rice, crispy fried egg, and spicy prik nam pla on the side.",
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyyOuoSRxigu0AP3TP-fCLVlymkyFfBtbiR9wAQzAfqg&s=10",
       "file_location": "recipes/pad-kra-pao.json"
     }
   ]

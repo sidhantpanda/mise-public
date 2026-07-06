@@ -2,4 +2,4 @@
 
 # Mise Public Data
 
-The repo contains a list of public recipes to get users started easily.
+The repo contains a list of public recipes to get users started easily when using [Mise](https://github.com/sidhantpanda/mise).

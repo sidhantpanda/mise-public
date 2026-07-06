@@ -1,0 +1,155 @@
+{
+  "name": "Pad Kra Pao",
+  "@type": "Recipe",
+  "image": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyyOuoSRxigu0AP3TP-fCLVlymkyFfBtbiR9wAQzAfqg&s=10"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT15M",
+  "keywords": [
+    "pad kra pao",
+    "pad krapow",
+    "Thai basil stir fry",
+    "prik nam pla",
+    "Thai ground meat stir fry"
+  ],
+  "prepTime": "PT15M",
+  "totalTime": "PT30M",
+  "description": "A Thai basil stir-fry made with ground pork, chicken, or beef, garlic, Thai bird’s eye chilies, savory sauces, holy basil, jasmine rice, crispy fried egg, and spicy prik nam pla on the side.",
+  "recipeNotes": [
+    "Holy basil gives pad kra pao its classic peppery flavor. Thai basil works in a pinch, but the dish will taste sweeter and more anise-like.",
+    "For a spicier version, use 6 to 10 chilies in the stir-fry and extra sliced chilies in the prik nam pla."
+  ],
+  "recipeYield": "3 to 4 servings",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Main course",
+  "recipeIngredient": [
+    "450 grams ground pork, chicken, or beef",
+    "4 to 6 garlic cloves",
+    "3 to 6 Thai bird’s eye chilies, or to taste",
+    "2 tablespoons neutral oil",
+    "1 tablespoon oyster sauce",
+    "1 tablespoon soy sauce",
+    "1 tablespoon fish sauce",
+    "1 teaspoon dark soy sauce, optional, for color",
+    "1 teaspoon sugar",
+    "1 to 2 tablespoons water or chicken stock",
+    "1 large handful holy basil leaves",
+    "Cooked jasmine rice, for serving",
+    "1 fried egg per serving, optional",
+    "3 tablespoons fish sauce, for prik nam pla",
+    "1 to 2 tablespoons lime juice, for prik nam pla",
+    "2 to 4 Thai bird’s eye chilies, thinly sliced, for prik nam pla",
+    "1 small garlic clove, thinly sliced or minced, for prik nam pla",
+    "1/2 teaspoon sugar, optional, for prik nam pla",
+    "3 to 4 tablespoons oil, for crispy fried egg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Make the prik nam pla",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, mix fish sauce, lime juice, sliced chilies, garlic, and sugar if using."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the prik nam pla sit while you cook so the flavors infuse."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the aromatics",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Using a mortar and pestle, pound the garlic and Thai bird’s eye chilies into a rough paste. Alternatively, mince them finely with a knife."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Cook the pad kra pao",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 2 tablespoons neutral oil in a wok or large pan over medium-high heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the garlic-chili paste and stir-fry for 15 to 30 seconds until fragrant."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground meat and break it up with a spatula."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry until the meat is mostly cooked through and lightly browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add oyster sauce, soy sauce, fish sauce, dark soy sauce if using, sugar, and a splash of water or chicken stock."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry for 1 to 2 minutes until glossy and well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn off the heat, add the holy basil leaves, and toss until just wilted from the residual heat."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Make the crispy fried egg",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 3 to 4 tablespoons oil in a small pan until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crack in an egg and fry until the edges are bubbly and crisp while the yolk remains runny."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon hot oil over the whites to help them puff."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with 1 egg per serving, if desired."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Serve",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the pad kra pao over cooked jasmine rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top each serving with a crispy fried egg, if using."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with prik nam pla on the side."
+        }
+      ]
+    }
+  ],
+  "identifier": "4450736f-6636-4828-ad34-68fd875d3f59",
+  "author": {
+    "@type": "Person",
+    "identifier": "191b4e8c-4e02-4dfc-8fee-17235985e138",
+    "name": "Sidhant Panda"
+  },
+  "datePublished": "2026-07-04",
+  "suitableForDiet": []
+}

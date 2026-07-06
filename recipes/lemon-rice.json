@@ -1,0 +1,114 @@
+{
+  "name": "Lemon Rice",
+  "@type": "Recipe",
+  "image": [
+    "https://www.indianveggiedelight.com/wp-content/uploads/2023/03/lemon-rice-stovetop-featured.jpg"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT20M",
+  "keywords": [
+    "lemon rice",
+    "South Indian lemon rice",
+    "chitranna",
+    "rice recipe"
+  ],
+  "prepTime": "PT10M",
+  "totalTime": "PT30M",
+  "description": "A simple South Indian-style lemon rice made with cooked rice, mustard seeds, cumin seeds, dals, curry leaves, turmeric, onion, and fresh lemon juice.",
+  "recipeYield": "2 servings",
+  "recipeCuisine": "Indian",
+  "recipeCategory": "Main course",
+  "recipeIngredient": [
+    "200 grams sona masoori rice",
+    "400 milliliters water",
+    "1 tablespoon oil",
+    "1/2 teaspoon mustard seeds",
+    "1/2 teaspoon cumin seeds",
+    "3 grams chana dal",
+    "3 grams urad dal",
+    "1 small green chili, chopped",
+    "1 small handful curry leaves",
+    "10 grams onion, finely chopped",
+    "1/2 teaspoon turmeric powder",
+    "Fresh lemon juice, to taste",
+    "Salt, to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Cook the rice",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Rinse 200 grams sona masoori rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the rice to a pressure cooker with 400 milliliters water, using a 1:2 rice-to-water ratio."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pressure cook for 2 whistles, then let the pressure release naturally. Fluff the rice and set aside."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Make the tempering",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 1 tablespoon oil in a pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1/2 teaspoon mustard seeds and 1/2 teaspoon cumin seeds. Let them splutter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 3 grams chana dal and 3 grams urad dal. Fry until they begin to brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the chopped green chili and curry leaves. Fry briefly until fragrant."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 10 grams finely chopped onion and fry until softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1/2 teaspoon turmeric powder and sauté until the raw smell goes away."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Finish the lemon rice",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked rice to the pan and mix gently until evenly coated with the tempering."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn off the heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Squeeze in fresh lemon juice and add salt to taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix gently and serve warm."
+        }
+      ]
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  },
+  "datePublished": "2026-07-01",
+  "suitableForDiet": []
+}

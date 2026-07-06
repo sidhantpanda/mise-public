@@ -1,0 +1,105 @@
+{
+  "name": "Hyderabad Chicken Dum Biryani",
+  "@type": "Recipe",
+  "image": [
+    "https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT1H15M",
+  "keywords": [
+    "Hyderabad chicken dum biryani",
+    "Hyderabadi biryani",
+    "chicken biryani",
+    "dum biryani"
+  ],
+  "prepTime": "PT1H",
+  "totalTime": "PT135M",
+  "description": "A fragrant Hyderabadi-style chicken dum biryani made with marinated chicken, partially cooked basmati rice, fried onions, saffron milk, herbs, and slow steam cooking.",
+  "recipeYield": "6 servings",
+  "recipeCuisine": "Indian",
+  "recipeCategory": "Main course",
+  "suitableForDiet": [],
+  "recipeIngredient": [
+    "1 kg chicken, bone-in pieces preferred",
+    "3 cups aged basmati rice",
+    "1 cup plain yogurt",
+    "3 large onions, thinly sliced",
+    "1/2 cup fresh mint leaves, chopped",
+    "1/2 cup fresh cilantro leaves, chopped",
+    "3 tablespoons ginger-garlic paste",
+    "4 green chilies, slit",
+    "2 tablespoons lemon juice",
+    "1 teaspoon turmeric powder",
+    "2 teaspoons red chili powder",
+    "2 teaspoons coriander powder",
+    "1 teaspoon cumin powder",
+    "1 teaspoon garam masala",
+    "1 teaspoon biryani masala",
+    "1 1/2 teaspoons salt, or to taste",
+    "1/2 cup cooking oil or ghee, plus more as needed",
+    "2 tablespoons ghee",
+    "1/4 cup warm milk",
+    "1/2 teaspoon saffron strands",
+    "2 tablespoons rose water or kewra water, optional",
+    "1 cinnamon stick",
+    "4 green cardamom pods",
+    "4 cloves",
+    "2 bay leaves",
+    "1 star anise, optional",
+    "1 teaspoon shahi jeera or cumin seeds",
+    "8 cups water, for boiling rice",
+    "2 tablespoons salt, for boiling rice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Wash and soak the rice",
+      "text": "Rinse the basmati rice until the water runs mostly clear. Soak it in water for 30 minutes, then drain."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Fry the onions",
+      "text": "Heat oil or ghee in a pan and fry the sliced onions over medium heat until golden brown and crisp. Remove and drain on paper towels. Reserve some frying oil or ghee for layering."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Marinate the chicken",
+      "text": "In a large bowl, combine chicken, yogurt, ginger-garlic paste, green chilies, lemon juice, turmeric, red chili powder, coriander powder, cumin powder, garam masala, biryani masala, salt, half of the fried onions, half of the mint, half of the cilantro, and 2 tablespoons of the reserved onion oil or ghee. Mix well and marinate for at least 1 hour, or overnight in the refrigerator for best flavor."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prepare saffron milk",
+      "text": "Soak saffron strands in warm milk for 10 to 15 minutes. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Parboil the rice",
+      "text": "Bring 8 cups water to a boil. Add cinnamon, cardamom, cloves, bay leaves, star anise if using, shahi jeera, and salt. Add the drained rice and cook until it is about 70 percent done, firm in the center but partly cooked. Drain immediately."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Layer the biryani",
+      "text": "Place the marinated chicken in a heavy-bottomed pot. Spread it evenly. Add the parboiled rice on top. Sprinkle remaining fried onions, mint, cilantro, ghee, saffron milk, and rose water or kewra water if using."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Seal for dum cooking",
+      "text": "Cover the pot tightly with a lid. Seal the edges with dough or place a heavy object on the lid to trap steam."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook on dum",
+      "text": "Cook on medium-high heat for 8 to 10 minutes, then reduce heat to very low and cook for 35 to 45 minutes. Alternatively, place the pot on a hot griddle or tawa over low heat to prevent burning."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Rest and serve",
+      "text": "Turn off the heat and let the biryani rest, covered, for 10 to 15 minutes. Gently fluff from the sides to mix rice and chicken without breaking the grains. Serve hot with raita, mirchi ka salan, or salad."
+    }
+  ],
+  "datePublished": "2026-07-02",
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  }
+}

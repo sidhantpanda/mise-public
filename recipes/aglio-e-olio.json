@@ -1,0 +1,81 @@
+{
+  "name": "Aglio e Olio",
+  "@type": "Recipe",
+  "image": [
+    "https://cookingwithayeh.com/wp-content/uploads/2025/02/Spaghetti-Aglio-e-Olio-SQ-500x500.jpg"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT20M",
+  "keywords": [
+    "aglio e olio",
+    "garlic pasta",
+    "spaghetti",
+    "olive oil",
+    "garlicky pasta"
+  ],
+  "prepTime": "PT15M",
+  "totalTime": "PT35M",
+  "description": "A very garlicky, restaurant-level aglio e olio using garlic three ways: mellow blended garlic purée, slow-infused garlic oil, and crispy garlic chips.",
+  "recipeNotes": [
+    "The sauce should be glossy and lightly creamy, not oily and separated.",
+    "Boiled and blended garlic gives the pasta a sweet, mellow garlic backbone.",
+    "Slow-infused garlic oil gives the classic aglio e olio aroma.",
+    "Crispy garlic chips add texture and a sharper garlic finish.",
+    "Lemon zest helps keep the dish bright and balanced."
+  ],
+  "recipeYield": "2 servings",
+  "datePublished": "2026-07-04",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta",
+  "recipeIngredient": [
+    "200 g spaghetti or linguine",
+    "12–16 garlic cloves, divided",
+    "1/3 cup extra-virgin olive oil",
+    "1/2 tsp red pepper flakes, or more to taste",
+    "2 tbsp finely chopped parsley",
+    "1/2 lemon, zested",
+    "Small squeeze of lemon juice",
+    "Salt, to taste",
+    "Black pepper, to taste",
+    "2–3 tbsp grated Parmigiano or Pecorino, optional",
+    "1 tbsp butter, optional",
+    "Reserved pasta water, as needed"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Make the mellow garlic purée",
+      "text": "Peel 8–10 garlic cloves. Put them in a small pot, cover with water, and simmer gently for 8–10 minutes, until very soft. Drain, then blend or mash with 1 tablespoon olive oil and a pinch of salt. Later, loosen with 2–3 tablespoons hot pasta water as needed until smooth and pourable."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Make the garlic chips and garlic oil",
+      "text": "Thinly slice the remaining 4–6 garlic cloves. Add the olive oil and sliced garlic to a cold pan. Turn the heat to low and cook slowly until the garlic turns pale golden, about 5–8 minutes. Remove the garlic chips with a spoon and set them aside. Keep the infused oil in the pan. Do not let the garlic turn dark brown or it may become bitter."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook the pasta",
+      "text": "Boil the pasta in well-salted water until 1 minute shy of al dente. Before draining, reserve at least 1 cup of pasta water."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Start the sauce",
+      "text": "Return the pan with the garlic oil to low heat. Add the red pepper flakes, garlic purée, and 1/2 cup reserved pasta water. Stir until the purée loosens into the oil and pasta water."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Emulsify with pasta",
+      "text": "Add the pasta directly into the pan. Toss vigorously over medium-low heat, adding splashes of pasta water as needed, until the sauce becomes glossy, clingy, and lightly creamy."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Finish and serve",
+      "text": "Finish with parsley, lemon zest, a tiny squeeze of lemon juice, black pepper, optional butter, and optional cheese. Taste and adjust salt. Top with the crispy garlic chips before serving."
+    }
+  ],
+  "suitableForDiet": [],
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Poha",
+  "@type": "Recipe",
+  "image": [
+    "https://i0.wp.com/indischwindisch.com/wp-content/uploads/2023/05/Poha-1.jpg?resize=1365%2C2048&ssl=1"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT15M",
+  "keywords": [
+    "poha",
+    "kanda poha",
+    "flattened rice",
+    "Indian breakfast",
+    "vegetarian"
+  ],
+  "prepTime": "PT10M",
+  "totalTime": "PT25M",
+  "description": "A quick Indian breakfast made with flattened rice, onion, mustard seeds, curry leaves, turmeric, peanuts, green chili, lemon juice, and fresh coriander.",
+  "recipeYield": "2 servings",
+  "recipeCuisine": "Indian",
+  "recipeCategory": "Breakfast",
+  "suitableForDiet": [],
+  "recipeIngredient": [
+    "1 1/2 cups thick poha/flattened rice",
+    "1 medium onion, finely chopped",
+    "1 small potato, diced, optional",
+    "2 tablespoons peanuts",
+    "1 tablespoon oil",
+    "1/2 teaspoon mustard seeds",
+    "1/2 teaspoon cumin seeds, optional",
+    "1 green chili, chopped",
+    "1 handful curry leaves",
+    "1/4 teaspoon turmeric powder",
+    "1/2 teaspoon sugar, optional",
+    "Salt, to taste",
+    "1 to 2 tablespoons fresh lemon juice, to taste",
+    "2 tablespoons fresh coriander, chopped",
+    "Fresh grated coconut, optional for garnish",
+    "Sev, optional for garnish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the poha",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Rinse the poha gently under running water until softened but not mushy."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain well and rest for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with salt, turmeric powder, and sugar if using. Mix gently and set aside."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Cook the tempering",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a pan over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add peanuts and fry until lightly golden. Remove and set aside, or leave them in the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard seeds and let them splutter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cumin seeds if using, chopped green chili, and curry leaves. Fry briefly until aromatic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped onion and sauté until soft and translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using potato, add diced potato, cover, and cook until tender."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Finish the poha",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Add the prepared poha to the pan and mix gently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and steam on low heat for 2 to 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn off the heat and add lemon juice, fried peanuts, and chopped coriander."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix gently and garnish with fresh grated coconut or sev if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve warm."
+        }
+      ]
+    }
+  ],
+  "datePublished": "2026-07-02",
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  }
+}

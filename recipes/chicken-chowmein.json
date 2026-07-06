@@ -1,0 +1,136 @@
+{
+  "name": "Chicken Chowmein",
+  "@type": "Recipe",
+  "image": [
+    "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/chicken-chow-mein-b92745e3-5c6662e3.jpg"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT25M",
+  "keywords": [
+    "chicken chowmein",
+    "street style chowmein",
+    "Indo-Chinese noodles",
+    "chicken noodles"
+  ],
+  "prepTime": "PT20M",
+  "totalTime": "PT45M",
+  "description": "Street-style chicken chowmein with al dente noodles, seasoned chicken, crunchy vegetables, soy sauce, pepper, garlic, and MSG.",
+  "recipeYield": "3 to 4 servings",
+  "recipeCuisine": "Indo-Chinese",
+  "recipeCategory": "Main course",
+  "suitableForDiet": [],
+  "recipeIngredient": [
+    "2 to 3 tablespoons sunflower oil, plus more for boiling and coating noodles",
+    "200 grams chicken cubes or blocks",
+    "128 grams cabbage, julienned",
+    "280 grams noodles",
+    "110 grams capsicum, julienned",
+    "70 grams onions, cut into half-moon slices",
+    "45 grams garlic, chopped",
+    "25 grams spring onions, diagonally cut, plus 10 grams for garnish",
+    "40 grams carrot, julienned",
+    "2 tablespoons MSG",
+    "2 tablespoons dark soy sauce, plus 2 teaspoons for chicken",
+    "1 tablespoon white pepper, plus 1 tablespoon for chicken",
+    "1 tablespoon black pepper, plus 1 tablespoon for chicken",
+    "Salt, as needed",
+    "Water, for boiling noodles"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Noodles",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring a large vessel of water to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 2 to 3 tablespoons oil to the boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the noodles and cook until al dente."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Strain the noodles and immediately rinse under cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add a little oil to the noodles in the strainer and mix properly to prevent sticking. Set aside."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Chicken",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the chicken and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 tablespoon white pepper, 1 tablespoon black pepper, and 2 teaspoons dark soy sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the chicken is fully done. Set aside."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Wok",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a wok."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the garlic and cook until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep the heat high and add the onions, cabbage, carrot, and spring onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the vegetables for 30 to 45 seconds."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce the heat slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked noodles and cooked chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dark soy sauce, MSG, white pepper, and black pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss everything well over medium-high heat until evenly coated and heated through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with the remaining 10 grams spring onions and serve hot."
+        }
+      ]
+    }
+  ],
+  "datePublished": "2026-07-02",
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  }
+}

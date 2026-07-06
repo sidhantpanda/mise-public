@@ -17,6 +17,60 @@
       "short_desc": "A simple South Indian-style lemon rice made with cooked rice, mustard seeds, cumin seeds, dals, curry leaves, turmeric, onion, and fresh lemon juice.",
       "image_url": "https://www.indianveggiedelight.com/wp-content/uploads/2023/03/lemon-rice-stovetop-featured.jpg",
       "file_location": "recipes/lemon-rice.json"
+    },
+    {
+      "name": "Aglio e Olio",
+      "time": "35 min",
+      "cuisine": "Italian",
+      "meal_type": "Pasta",
+      "short_desc": "A very garlicky, restaurant-level aglio e olio using garlic three ways: mellow blended garlic purée, slow-infused garlic oil, and crispy garlic chips.",
+      "image_url": "https://cookingwithayeh.com/wp-content/uploads/2025/02/Spaghetti-Aglio-e-Olio-SQ-500x500.jpg",
+      "file_location": "recipes/aglio-e-olio.json"
+    },
+    {
+      "name": "Baingan Bharta",
+      "time": "45 min",
+      "cuisine": "Indian",
+      "meal_type": "Main Course",
+      "short_desc": "A smoky roasted eggplant mash cooked with onion, tomato, green chili, garlic, and spices.",
+      "image_url": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
+      "file_location": "recipes/baingan-bharta.json"
+    },
+    {
+      "name": "Chicken Chowmein",
+      "time": "45 min",
+      "cuisine": "Indo-Chinese",
+      "meal_type": "Main Course",
+      "short_desc": "Street-style chicken chowmein with al dente noodles, seasoned chicken, crunchy vegetables, soy sauce, pepper, garlic, and MSG.",
+      "image_url": "https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/chicken-chow-mein-b92745e3-5c6662e3.jpg",
+      "file_location": "recipes/chicken-chowmein.json"
+    },
+    {
+      "name": "Hyderabad Chicken Dum Biryani",
+      "time": "2 hr 15 min",
+      "cuisine": "Indian",
+      "meal_type": "Main Course",
+      "short_desc": "A fragrant Hyderabadi-style chicken dum biryani made with marinated chicken, partially cooked basmati rice, fried onions, saffron milk, herbs, and slow steam cooking.",
+      "image_url": "https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg",
+      "file_location": "recipes/hyderabad-chicken-dum-biryani.json"
+    },
+    {
+      "name": "Misal Pav",
+      "time": "1 hr 25 min",
+      "cuisine": "Indian",
+      "meal_type": "Breakfast",
+      "short_desc": "A spicy Kolhapuri-style misal made with sprouted moth bean usal, a roasted coconut and spice vatan paste, fiery tarri, and classic toppings like farsan, onions, coriander, and lemon.",
+      "image_url": "https://pipingpotcurry.com/wp-content/uploads/2019/04/Misal-Pav-Instant-Pot-1.jpg",
+      "file_location": "recipes/misal-pav.json"
+    },
+    {
+      "name": "Poha",
+      "time": "25 min",
+      "cuisine": "Indian",
+      "meal_type": "Breakfast",
+      "short_desc": "A quick Indian breakfast made with flattened rice, onion, mustard seeds, curry leaves, turmeric, peanuts, green chili, lemon juice, and fresh coriander.",
+      "image_url": "https://i0.wp.com/indischwindisch.com/wp-content/uploads/2023/05/Poha-1.jpg?resize=1365%2C2048&ssl=1",
+      "file_location": "recipes/poha.json"
     }
   ]
 }

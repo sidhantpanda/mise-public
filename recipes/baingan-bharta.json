@@ -1,0 +1,91 @@
+{
+  "name": "Baingan Bharta",
+  "@type": "Recipe",
+  "image": [
+    "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT35M",
+  "keywords": [
+    "baingan bharta",
+    "roasted eggplant curry",
+    "Indian vegetarian curry"
+  ],
+  "prepTime": "PT10M",
+  "totalTime": "PT45M",
+  "description": "A smoky roasted eggplant mash cooked with onion, tomato, green chili, garlic, and spices.",
+  "recipeYield": "4 servings",
+  "recipeCuisine": "Indian",
+  "recipeCategory": "Main course",
+  "suitableForDiet": [],
+  "recipeIngredient": [
+    "1 large eggplant/baingan",
+    "2 tablespoons oil",
+    "1 teaspoon cumin seeds",
+    "1 large onion, finely chopped",
+    "1 tablespoon garlic, chopped",
+    "1 green chili, chopped",
+    "2 tomatoes, chopped",
+    "1/2 teaspoon turmeric powder",
+    "1 teaspoon red chili powder",
+    "1 teaspoon coriander powder",
+    "Salt, to taste",
+    "1/2 teaspoon garam masala",
+    "2 tablespoons fresh coriander, chopped"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Roast the eggplant",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Roast the eggplant directly over a flame or under a broiler until the skin is charred and the flesh is soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool, peel off the charred skin, and mash the flesh."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Cook the bharta",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a pan and add cumin seeds."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion and cook until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and green chili, and sauté briefly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomatoes, turmeric, red chili powder, coriander powder, and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until tomatoes soften and the masala thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mashed eggplant and cook for 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finish with garam masala and coriander. Serve hot."
+        }
+      ]
+    }
+  ],
+  "datePublished": "2026-07-02",
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  }
+}

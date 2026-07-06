@@ -1,0 +1,207 @@
+{
+  "name": "Misal Pav",
+  "@type": "Recipe",
+  "image": [
+    "https://pipingpotcurry.com/wp-content/uploads/2019/04/Misal-Pav-Instant-Pot-1.jpg"
+  ],
+  "@context": "https://schema.org",
+  "cookTime": "PT50M",
+  "keywords": [
+    "misal pav",
+    "Kolhapuri misal",
+    "moth bean misal",
+    "matki usal",
+    "tarri",
+    "vatan"
+  ],
+  "prepTime": "PT35M",
+  "totalTime": "PT85M",
+  "description": "A spicy Kolhapuri-style misal made with sprouted moth bean usal, a roasted coconut and spice vatan paste, fiery tarri, and classic toppings like farsan, onions, coriander, and lemon.",
+  "recipeYield": "4 to 6 servings",
+  "recipeCuisine": "Indian",
+  "recipeCategory": "Breakfast",
+  "suitableForDiet": [],
+  "recipeIngredient": [
+    "1 1/4 cups sprouted moth beans",
+    "1 large onion, finely chopped, for usal",
+    "1 large tomato, chopped, for usal",
+    "1 tablespoon ginger-garlic paste",
+    "1 teaspoon mustard seeds",
+    "1 teaspoon cumin seeds",
+    "1 teaspoon turmeric powder",
+    "1 teaspoon hing/asafoetida",
+    "1 handful curry leaves",
+    "Salt, to taste",
+    "2 to 3 cups water, as needed",
+    "2 tablespoons oil, for usal",
+    "1/2 cup dry desiccated coconut",
+    "1 tablespoon oil, for whole spice base",
+    "1 tablespoon cumin seeds, for vatan",
+    "1 teaspoon shah jeera/caraway seeds",
+    "1 tablespoon coriander seeds",
+    "1/2 inch cinnamon stick",
+    "2 green cardamom pods",
+    "1 black cardamom pod",
+    "1 teaspoon black peppercorns",
+    "3 to 4 cloves",
+    "1/2 inch ginger",
+    "10 to 12 garlic cloves",
+    "1 tablespoon white sesame seeds",
+    "1 tablespoon poppy seeds",
+    "1/4 cup fresh coconut",
+    "2 medium onions, sliced, for vatan",
+    "2 medium tomatoes, diced, for vatan",
+    "1 pinch salt, for vatan",
+    "2 tablespoons oil, for frying onion-tomato base",
+    "5 to 6 tablespoons oil, for tarri",
+    "1 large onion, finely chopped, for tarri",
+    "2 tablespoons Kashmiri red chili powder",
+    "1 tablespoon regular red chili powder",
+    "2 tablespoons goda masala",
+    "Prepared vatan paste",
+    "Finely chopped onions, for garnish",
+    "Farsan or sev/misal mix, for garnish",
+    "Fresh coriander, chopped, for garnish",
+    "Lemon wedges, optional",
+    "Pav bread rolls, for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Cook the usal",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 2 tablespoons oil in a pressure cooker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard seeds and let them splutter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cumin seeds, curry leaves, and hing. Fry briefly until aromatic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the finely chopped onion and sauté until translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ginger-garlic paste and cook briefly until the raw smell reduces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped tomato, turmeric powder, and salt. Cook until the tomato softens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the sprouted moth beans and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add enough water to cover the beans."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Close the pressure cooker and cook for 1 whistle. Set the usal aside."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Prepare the vatan paste",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Dry roast the desiccated coconut until golden brown. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat 1 tablespoon oil in a pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cumin seeds, shah jeera, coriander seeds, cinnamon, green cardamom, black cardamom, black peppercorns, and cloves. Roast until fragrant."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ginger, garlic, sesame seeds, poppy seeds, and fresh coconut. Roast lightly, then set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another pan, heat 2 tablespoons oil and shallow fry the sliced onions until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add diced tomatoes and a pinch of salt. Cook until the tomatoes soften and melt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the roasted coconut, whole spice mixture, and onion-tomato mixture cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add all three vatan components to a blender with minimal water and grind into a smooth paste."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Make the tarri",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 5 to 6 tablespoons oil in a pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the finely chopped onion and fry until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add Kashmiri red chili powder, regular red chili powder, and goda masala. Fry briefly, taking care not to burn the spices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the prepared vatan paste and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on medium heat for about 8 minutes, until the oil separates, the color deepens, and the texture thickens."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Assemble the misal pav",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Add hot usal to a serving bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spicy tarri on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with finely chopped onions, farsan or sev/misal mix, and fresh coriander."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add a squeeze of lemon if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with pav bread rolls or plain rice."
+        }
+      ]
+    }
+  ],
+  "datePublished": "2026-07-02",
+  "author": {
+    "@type": "Person",
+    "name": "Sidhant Panda"
+  }
+}
